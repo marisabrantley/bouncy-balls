@@ -16,4 +16,4 @@ https://user-images.githubusercontent.com/60168324/140598811-47427f7b-8f2e-4ca6-
 
 ## Launch
 
-For the full bouncy balls effect, click here: https://marisabrantley.github.io/bouncy-balls/.
+To enjoy the full bouncy balls effect, click here: https://marisabrantley.github.io/bouncy-balls/.

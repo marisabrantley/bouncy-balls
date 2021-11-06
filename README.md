@@ -1,6 +1,6 @@
 # Bouncy Balls
 
-This is a MDN JavaScript object building practice exercise to illustrate how useful objects are in JavaScript. 
+This is a fun MDN JavaScript object building practice exercise to illustrate how useful objects are in JavaScript. 
 
 ## Objective
 
@@ -14,3 +14,6 @@ Steps include:
 
 https://user-images.githubusercontent.com/60168324/140598811-47427f7b-8f2e-4ca6-b7e5-9061a94e9736.mov
 
+## Launch
+
+For the full bouncy balls effect, click here: https://marisabrantley.github.io/bouncy-balls/.
